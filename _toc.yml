@@ -1,5 +1,7 @@
 format: jb-book
 root: index.md
 chapters:
-  - file: strategies/README.md
-  - file: contents/README.md
+- file: tools/README.md
+- file: contents/README.md
+- file: platforms/README.md
+- file: industries/REAMDE.md
